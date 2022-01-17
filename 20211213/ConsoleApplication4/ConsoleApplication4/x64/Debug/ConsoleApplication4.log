@@ -1,0 +1,3 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\SEC\Desktop\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(31,1): error C2059: 구문 오류: '}'
+C:\Users\SEC\Desktop\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(31,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
